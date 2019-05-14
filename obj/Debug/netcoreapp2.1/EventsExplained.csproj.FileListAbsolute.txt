@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\bin\Debug\netcoreapp2.1\EventsExplained.deps.json
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\bin\Debug\netcoreapp2.1\EventsExplained.runtimeconfig.json
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\bin\Debug\netcoreapp2.1\EventsExplained.runtimeconfig.dev.json
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\bin\Debug\netcoreapp2.1\EventsExplained.dll
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\bin\Debug\netcoreapp2.1\EventsExplained.pdb
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\obj\Debug\netcoreapp2.1\EventsExplained.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\obj\Debug\netcoreapp2.1\EventsExplained.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\obj\Debug\netcoreapp2.1\EventsExplained.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\obj\Debug\netcoreapp2.1\EventsExplained.AssemblyInfo.cs
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\obj\Debug\netcoreapp2.1\EventsExplained.dll
+C:\Users\user\Desktop\Programming\4.Platforms\3.ConsoleApps\EventsExplained\obj\Debug\netcoreapp2.1\EventsExplained.pdb
